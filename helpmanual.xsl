@@ -3,7 +3,7 @@
   >
 
 
-  <!-- The template below names the template that will output a separate HTML page for the table of contents. 
+  <!-- The template below names the  that will output a separate HTML page for the table of contents. 
             -->
 
   <xsl:output method="xhtml" indent="yes" name="toc-format"
